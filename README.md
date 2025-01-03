@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Marmik-001
+- 👋 Hi, I’m Marmik Shah
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on front-end projects
