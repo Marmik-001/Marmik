@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Marmik Shah
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react js
-- 💞️ I’m looking to collaborate on front-end projects
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Golang
+- 💞️ I’m looking to collaborate on full-stack projects
+- 📫 How to reach me mail marmikrshah@gmail.com
 - 😄 Pronouns: 0/1
 - ⚡ Fun fact: ...
 
